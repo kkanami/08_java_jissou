@@ -7,7 +7,11 @@ public class Iphone {
 		iphone.play();
 		iphone.stop();
 		iphone.next();
-		iphone.buck();
+		iphone.back();
+		iphone.call();
+		iphone.mail();
+		iphone.photo();
+		iphone.internet();
 
 	}
 }
